@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, I'm Cyber 👋
+
+I like software that functions now and will continue to function in the future.
+
+### Full-Stack Software Engineer & Game Developer
+
+I learned how to program through game development and robotics, which allowed me to build a strong foundation in which math, physics, and systems architecture intersect.
 
 <!--
 **CyberNinjaScripter/CyberNinjaScripter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
